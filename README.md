@@ -1,21 +1,19 @@
-# React + TypeScript + Vite
+# 💼 Fayzillo Ummatov — Shaxsiy Portfolio (React Resume)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu loyiha — **Fayzillo Ummatov** tomonidan yaratilgan **React asosidagi interaktiv rezyume (portfolio)**.  
+U zamonaviy texnologiyalar bilan ishlovchi dasturchi sifatida o‘z tajribasi, ta’limi, va ko‘nikmalarini bir sahifada chiroyli tarzda taqdim etadi.  
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+---
 
-## Deploy Your Own
+## 🚀 Texnologiyalar
 
-Deploy your own Vite project with Vercel.
+Loyiha quyidagi texnologiyalar asosida qurilgan:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
+- ⚛️ **React** — UI komponentlar uchun
+- 🎨 **Tailwind CSS** — responsiv dizayn uchun
+- 🧩 **Material UI (MUI)** — UI elementlar (ThemeProvider, Icons)
+- 🌗 **Dark / Light Mode** — dinamik rang rejimlarini almashtirish
+- 💾 **TypeScript** (optional) — barqaror kod tuzilmasi uchun
 
-_Live Example: https://vite-react-example.vercel.app_
+---
 
-### Deploying From Your Terminal
-
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
-```
